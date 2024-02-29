@@ -1,3 +1,5 @@
-install datetime
-install scapy
-instal pillow
+requests
+beautifulsoup4
+sqlite
+scapy
+pillow
